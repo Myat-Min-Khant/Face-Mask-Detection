@@ -47,9 +47,7 @@ And then for video example usage  is same too,
 
   for example, 
    sudo python3 video_image.py -v "path of  input your video file " -c
-   
           (or)
-          
    save video, 
    sudo python3 video_image.py -v "path of your input video file" -s "path of output your video file" -c 
    
