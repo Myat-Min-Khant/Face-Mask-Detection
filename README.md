@@ -51,12 +51,14 @@ for image example usage,
  
 And then for video example usage  is same too,
 
-  for example, 
+  for example,
+  
    sudo python3 video_image.py -v "path of  input your video file " -c
    
           (or)
           
-   save video, 
+   save video,
+   
    sudo python3 video_image.py -v "path of your input video file" -s "path of output your video file" -c 
    
 
@@ -68,7 +70,9 @@ Run The Command, sudo python3 live_webcam.py --help
 Simply Run The Command, 
  
  sudo python3 live_webcam.py  -c
+ 
         or 
+        
  save live_webcam frame,
  
  sudo python3 live_webcam.py -s "path of output  your frame(extension with mp4 or avi)" -c 
