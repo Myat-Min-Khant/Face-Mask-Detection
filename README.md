@@ -13,9 +13,12 @@ Note,You can modify of the package version from a require_package file but this 
 
 # Usage 
 
-Open a terminal and Go to the Face-Mask-Detection folder,
+Open a terminal,
+
+git clone https://github.com/Myat-Min-Khant/Face-Mask-Detection.git
 
 cd Face-Mask-Detection/
+sudo chmod +x video_image.py live_webcam.py 
 
 if you are using for image and video, check help command.
 
