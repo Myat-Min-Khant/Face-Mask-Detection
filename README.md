@@ -7,7 +7,11 @@
 # Require Package Installation 
 This project is written by Python 3.For install require_package,Open a terminal 
 
-Go to the Face-Mask-Detection folder and Run the command, 
+Go to the Face-Mask-Detection folder and Run the command,
+       
+       sudo git clone https://github.com/Myat-Min-Khant/Face-Mask-Detection.git
+       
+       cd Face-Mask-Detection/
 
        sudo pip3 install -r require_package.txt 
 
@@ -15,11 +19,7 @@ Note,You can modify of the package version from a require_package file but this 
 
 # Usage 
 
-Open a terminal,
-
-git clone https://github.com/Myat-Min-Khant/Face-Mask-Detection.git
-
-    cd Face-Mask-Detection/
+Open a terminal,Go to the Face-Mask-Detection folder,Run the Command 
 
     sudo chmod +x video_image.py live_webcam.py 
 
