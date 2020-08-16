@@ -41,8 +41,10 @@ You will see What the arguments are!
 
 for image example usage,
   
-  sudo python3 video_image.py -i "path of input your image" -c 
+  sudo python3 video_image.py -i "path of input your image" -c
+  
             (or)
+     
   save image,
   
   sudo python3 video_image.py -i "path of your input image" -s "path of ouput your image" -c 
@@ -51,7 +53,9 @@ And then for video example usage  is same too,
 
   for example, 
    sudo python3 video_image.py -v "path of  input your video file " -c
+   
           (or)
+          
    save video, 
    sudo python3 video_image.py -v "path of your input video file" -s "path of output your video file" -c 
    
