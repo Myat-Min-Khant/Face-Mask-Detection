@@ -37,7 +37,7 @@ optional arguments:
   -c [CONFIDENCE], --confidence [CONFIDENCE]
                         Confidence point of face detection(default = 0.5)
                       
-You will see What the argument are!
+You will see What the arguments are!
 
 for image example usage,
   
