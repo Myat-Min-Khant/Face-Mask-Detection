@@ -17,24 +17,29 @@ Open a terminal,
 
 git clone https://github.com/Myat-Min-Khant/Face-Mask-Detection.git
 
-cd Face-Mask-Detection/
+    cd Face-Mask-Detection/
 
-sudo chmod +x video_image.py live_webcam.py 
+    sudo chmod +x video_image.py live_webcam.py 
 
 if you are using for image and video, check help command.
 
-sudo python3 video_image.py --help
+    sudo python3 video_image.py --help
 
-usage: video_image.py [-h] [-i INPUT] [-s SAVE] [-v VIDEO] -c [CONFIDENCE]
+    usage: video_image.py [-h] [-i INPUT] [-s SAVE] [-v VIDEO] -c [CONFIDENCE]
 
-optional arguments:
-  -h, --help            show this help message and exit
-  -i INPUT, --input INPUT
+    optional arguments:
+    
+     -h, --help            show this help message and exit
+     
+     -i INPUT, --input INPUT
                         path of input image
-  -s SAVE, --save SAVE  path of save image or video
-  -v VIDEO, --video VIDEO
+                        
+    -s SAVE, --save SAVE  path of save image or video
+    
+    -v VIDEO, --video VIDEO
                         path of input video
-  -c [CONFIDENCE], --confidence [CONFIDENCE]
+                        
+    -c [CONFIDENCE], --confidence [CONFIDENCE]
                         Confidence point of face detection(default = 0.5)
                       
 You will see What the arguments are!
