@@ -41,31 +41,25 @@ You will see What the arguments are!
 
 for image example usage,
 
-
-  
-  (sudo python3 video_image.py -i "path of input your image" -c)
-  
-  
-  
-  
-  
-            (or)
+    sudo python3 video_image.py -i "path of input your image" -c
+    
+    (or)
      
   save image,
   
-  sudo python3 video_image.py -i "path of your input image" -s "path of ouput your image" -c 
+    sudo python3 video_image.py -i "path of your input image" -s "path of ouput your image" -c 
  
 And then for video example usage  is same too,
 
   for example,
   
-   sudo python3 video_image.py -v "path of  input your video file " -c
+    sudo python3 video_image.py -v "path of  input your video file " -c
    
           (or)
           
    save video,
    
-   sudo python3 video_image.py -v "path of your input video file" -s "path of output your video file" -c 
+    sudo python3 video_image.py -v "path of your input video file" -s "path of output your video file" -c 
    
 
 
@@ -75,13 +69,13 @@ Run The Command, sudo python3 live_webcam.py --help
 
 Simply Run The Command, 
  
- sudo python3 live_webcam.py  -c
+    sudo python3 live_webcam.py  -c
  
-        or 
+        (or) 
         
  save live_webcam frame,
  
- sudo python3 live_webcam.py -s "path of output  your frame(extension with mp4 or avi)" -c 
+    sudo python3 live_webcam.py -s "path of output  your frame(extension with mp4 or avi)" -c 
  
  
  Note,"-c" confidence is the face detection of possible point rectangle.By default, -c is 0.5.However,you can adjustable for this point like 0.169 or 0.4.For example, -c 0.169 or 0.4 and anyother you can play around for this confidence value.If you are interesting to confidence of face detection! Check Out  this https://www.researchgate.net/publication/3845479_Comparison_of_confidence_measures_for_face_recognition paper.
