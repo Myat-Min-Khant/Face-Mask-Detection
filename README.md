@@ -18,6 +18,7 @@ Open a terminal,
 git clone https://github.com/Myat-Min-Khant/Face-Mask-Detection.git
 
 cd Face-Mask-Detection/
+
 sudo chmod +x video_image.py live_webcam.py 
 
 if you are using for image and video, check help command.
