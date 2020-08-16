@@ -40,8 +40,14 @@ optional arguments:
 You will see What the arguments are!
 
 for image example usage,
+
+
   
-  sudo python3 video_image.py -i "path of input your image" -c
+  (sudo python3 video_image.py -i "path of input your image" -c)
+  
+  
+  
+  
   
             (or)
      
