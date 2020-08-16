@@ -86,6 +86,11 @@ Simply Run The Command,
  
  
  Note,"-c" confidence is the face detection of possible point rectangle.By default, -c is 0.5.However,you can adjustable for this point like 0.169 or 0.4.For example, -c 0.169 or 0.4 and anyother you can play around for this confidence value.If you are interesting to confidence of face detection! Check Out  this https://www.researchgate.net/publication/3845479_Comparison_of_confidence_measures_for_face_recognition paper.
+ 
+ 
+ # License 
+ 
+ Send to mail backuser1112@gmail.com
 
 
  
