@@ -7,7 +7,9 @@
 # Require Package Installation 
 This project is written by Python 3.For install require_package,Open a terminal 
 
-Go to the Face-Mask-Detection folder and Run the command, sudo pip3 install -r require_package.txt 
+Go to the Face-Mask-Detection folder and Run the command, 
+
+       sudo pip3 install -r require_package.txt 
 
 Note,You can modify of the package version from a require_package file but this project is worked with this package of version.
 
@@ -48,7 +50,7 @@ for image example usage,
 
     sudo python3 video_image.py -i "path of input your image" -c
     
-    (or)
+                    (or)
      
   save image,
   
@@ -60,7 +62,7 @@ And then for video example usage  is same too,
   
     sudo python3 video_image.py -v "path of  input your video file " -c
    
-          (or)
+                (or)
           
    save video,
    
@@ -76,7 +78,7 @@ Simply Run The Command,
  
     sudo python3 live_webcam.py  -c
  
-        (or) 
+            (or) 
         
  save live_webcam frame,
  
