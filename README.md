@@ -7,7 +7,7 @@
 # Require Package Installation 
 This project is written by Python 3.For install require_package,Open a terminal 
 
-Go to the Face-Mask-Detection folder and Run the command,
+Run the command,
        
        sudo git clone https://github.com/Myat-Min-Khant/Face-Mask-Detection.git
        
