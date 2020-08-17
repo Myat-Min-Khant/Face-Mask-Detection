@@ -23,7 +23,7 @@ Open a terminal,Go to the Face-Mask-Detection folder,Run the Command
 
     sudo chmod +x video_image.py live_webcam.py 
 
-if you are using for image and video, check help command.
+if you are using for image and video, check the help command.
 
     sudo python3 video_image.py --help
 
