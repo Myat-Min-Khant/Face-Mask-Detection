@@ -72,7 +72,7 @@ And then for video example usage  is same too,
 
 If you are using for webcam, 
 
-Check help Command , sudo python3 live_webcam.py --help 
+Check the help Command , sudo python3 live_webcam.py --help 
 
 Simply Run The Command, 
  
